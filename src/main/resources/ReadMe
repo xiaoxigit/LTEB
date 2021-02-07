@@ -1,0 +1,6 @@
+XMLObject 负责构建xml类，获取请求的body内容
+BootStarpAdmin 负责开启netty客户端，发送请求
+MainHandler 负责处理发送的请求
+SessionRequest 负责根据handler构建http请求
+SessionAdmin 负责启动服务
+HttpUtils 负责处理数据，构建具体的请求体
