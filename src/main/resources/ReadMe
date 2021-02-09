@@ -4,3 +4,5 @@ MainHandler 负责处理发送的请求
 SessionRequest 负责根据handler构建http请求
 SessionAdmin 负责启动服务
 HttpUtils 负责处理数据，构建具体的请求体
+
+xsd转化为javaBean <!--https://www.cnblogs.com/lixuwu/p/7144712.html-->
